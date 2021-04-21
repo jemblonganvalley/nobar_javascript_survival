@@ -1,5 +1,6 @@
 # The JavaScript Survival Guide
 
+![zombie](https://images.pexels.com/photos/5435440/pexels-photo-5435440.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500)
 Okay teman teman, saya rasa kita sudah cukup lama mempelajari javascript selama di **JVALLEY** ini, _tapi apakah sebenarnya teman teman benar benar mengerti javascript..?_
 
 Berikut beberapa survival guide dari javascript, materi ini saya buat berdasarkan video youtube dari channel **Fireship**, berikut link nya [The JavaScript Survival Guide](https://www.youtube.com/watch?v=9emXNzqCKyg&list=PLt_eKIOdRgs45l62GHlpXl71TfNrWaXNP)
